@@ -1,2 +1,3 @@
 # miniproject
-clg mini project 
+
+clg mini project for 2% marks
